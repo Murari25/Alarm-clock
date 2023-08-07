@@ -6,4 +6,4 @@ This is a simple alarm clock program written in HTML ,CSS, Javascript.
 - Delete Alarm By Just clicking on the Delete button.
 - User can set a couple of alarms using this Alarm Clock.
 
-### Demo Link :
+### Demo Link : https://murari25.github.io/Alarm-clock/
